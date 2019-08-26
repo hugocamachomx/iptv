@@ -87,6 +87,14 @@ https://storage.googleapis.com/pristine-setup-249710.appspot.com/Copi/El.Rey.Leo
 https://r5---sn-9gv7ened.c.drive.google.com/videoplayback?expire=1566328146&ei=Eg1cXeW-OdKnugWym5OIBw&ip=177.249.184.21&cp=QVNLWERfV1FSR1hOOlVHb29tZ1hZOXpwNElfTDB1Vm11cjVCTEtiNTZ0QUN5SDlmWlI2MU1YRkc&id=d53a9d6b07b25982&itag=18&source=webdrive&requiressl=yes&mm=30&mn=sn-9gv7ened&ms=nxu&mv=m&mvi=4&pl=20&ttl=transient&susc=dr&driveid=1Tyho_h5wGMztRcGd4s16ydnDD6HOE5y8&app=explorer&mime=video/mp4&dur=6738.918&lmt=1533326937383016&mt=1566313654&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,dur,lmt&sig=ALgxI2wwRQIgMrHnvsDPAI0Q_qcOtP_DKblfM7oMg25n_duVq_stiVsCIQCkMJDNX7_y9rVPkFw3kRYzxMsxbI03wAl9ctKKLWdmyg==&lsparams=mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRQIhANKbU5n5V3biXaWdpZdJrwfHkotCmnlCQqsY-kEyMD1bAiBx_EOP_jBsdgVWadYUAeWf_CTu1vKKmAUeSuMF5bUozw==&cpn=a3vSsuF6jZSAGEyx&c=WEB_EMBEDDED_PLAYER&cver=20190820
 #EXTINF:0 group-title="Peliculas Infantiles", Casper (1995)
 https://www94.hlsmp4.com/token=CUVbBAAIA3HafM_Fdgdl8w/1566330102/0.0.0.0/14/a/8a/4673ae94f61ffb983e63835ac40598aa-480p.mp4
+#EXTINF:0 group-title="Peliculas Infantiles", Los Simpsons, la pelicula (2007)
+https://player.openload.download/m3u8/MjEwMA.m3u8
+#EXTINF:0 group-title="Peliculas Infantiles", La bella y la bestia (1991)
+https://megadictos.org/video/51902.mp4
+#EXTINF:0 group-title="Peliculas Infantiles", Wifi Ralph (2018)
+https://megadictos.org/video/51902.mp4
+#EXTINF:0 group-title="Peliculas Infantiles", Los increibles 2 (2018)
+https://megadictos.org/video/51478.mp4
 #EXTINF:0 group-title="Peliculas Infantiles", Las Crónicas de Narnia 1: El leon, la bruja y el armario (2005)
 https://s9.biter.tv/file/8f8016ec3fd2d93fb6912de637066690/2d43f345af902dc5a2b205f0dd1070a035415492b610975e9be618a44f40dfff446b9e5c719ba03c6fbabb9d67cb57fffc8247cc666d6a2ee82331f90ba49df6/1566175006/53/5b64d66a85ddd.mp4
 #EXTINF:0 group-title="Peliculas Infantiles", Las Crónicas de Narnia 2: El Príncipe Caspian (2008)
@@ -111,6 +119,14 @@ https://storage.googleapis.com/micro-harbor-248803.appspot.com/cv1981115lt.mp4
 https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt3501632_LAT_HD.mp4
 #EXTINF:0 group-title="Peliculas Avengers", Black Panther (Pantera Negra)(2018)
 https://storage.googleapis.com/micro-harbor-248803.appspot.com/cv1825683ltv3.mp4
+#EXTINF:0 group-title="Peliculas Hobbit", La Desolacion de Smaug (2013)
+https://megadictos.org/video/51076.mp4
+#EXTINF:0 group-title="Peliculas Hobbit", La Batalla de los cinco ejercitos (2014)
+https://megadictos.org/video/51085.mp4
+#EXTINF:0 group-title="Peliculas Accion", Red Sparrow (2018)
+https://player.openload.download/m3u8/MTkxMQ.m3u8
+#EXTINF:0 group-title="Peliculas Accion", John Wick 1 (2014)
+https://player.openload.download/m3u8/MTgyOA.m3u8
 #EXTINF:0 group-title="Doraemon", Doraemon T1 Cap.1
 https://s17.openstream.io/hls/qvsbezwqntblgwsztq4ka2mib52ztsnwuzig6slkxzk2tgfo2z7rbvi33fra/index-v1-a1.m3u8
 #EXTINF:0 group-title="Doraemon", Doraemon T1 Cap.2
